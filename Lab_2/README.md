@@ -10,11 +10,19 @@ Include your responses to the bold questions below. Include snippets of code tha
  
 **a. What voltage level do you need to power your display?**
 
+5v for backlight and main power/3.3v for text
+
 **b. What voltage level do you need to power the display backlight?**
+
+5v
    
 **c. What was one mistake you made when wiring up the display? How did you fix it?**
 
+Found one wire that was not making contact properly. While debugging this, ran sweep across potentiometer values on serial monitor (connected to A0), verified voltages with voltmeter, connected circuit to external breadboard, swapped LCD's, etc.
+
 **d. What line of code do you need to change to make it flash your name instead of "Hello World"?**
+
+Simply change the text in line 54 (in mine I also modified the time on to make it easier to take a picture)
  
 **e. Include a copy of your Lowly Multimeter code in your lab write-up.**
 
