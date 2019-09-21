@@ -47,21 +47,17 @@ Yes, by changing the brightness to vary from 0 to 255, I varied it from 0 to ana
 
 Linear, also acting as a voltage divider
 
+## Part D. I2C Sensors
+
 ### 2. Accelerometer
  
 **a. Include your accelerometer read-out code in your write-up.**
 
-### 3. IR Proximity Sensor
-
-**a. Describe the voltage change over the sensing range of the sensor. A sketch of voltage vs. distance would work also. Does it match up with what you expect from the datasheet?**
-
-**b. Upload your merged code to your lab report repository and link to it here.**
-
-## Optional. Graphic Display
+## Part E. Graphic Display
 
 **Take a picture of your screen working insert it here!**
 
-## Part D. Logging values to the EEPROM and reading them back
+## Part F. Logging values to the EEPROM and reading them back
  
 ### 1. Reading and writing values to the Arduino EEPROM
 
