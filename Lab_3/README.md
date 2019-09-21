@@ -53,7 +53,7 @@ Linear, also acting as a voltage divider
  
 **a. Include your accelerometer read-out code in your write-up.**
 
-[accelcode](https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Lab_3/Screen%20Shot%202019-09-21%20at%203.59.13%20PM.png)
+![accelcode](https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Lab_3/Screen%20Shot%202019-09-21%20at%203.59.13%20PM.png)
 
 ## Part E. Graphic Display
 
