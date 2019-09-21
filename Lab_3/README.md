@@ -11,8 +11,12 @@ For this lab, we will be experimenting with a variety of sensors, sending the da
 ## Part A.  Writing to the Serial Monitor
  
 **a. Based on the readings from the serial monitor, what is the range of the analog values being read?**
+
+0-1023
  
 **b. How many bits of resolution does the analog to digital converter (ADC) on the Arduino have?**
+
+10 bits
 
 ## Part B. RGB LED
 
@@ -24,13 +28,24 @@ For this lab, we will be experimenting with a variety of sensors, sending the da
 
 **a. What voltage values do you see from your force sensor?**
 
+roughly 200-1000
+
 **b. What kind of relationship does the voltage have as a function of the force applied? (e.g., linear?)**
+
+Linear, acting as a voltage divider, Vout = Vin(R1/R1+R2)
 
 **c. Can you change the LED fading code values so that you get the full range of output voltages from the LED when using your FSR?**
 
+Yes, by changing the brightness to vary from 0 to 255, I varied it from 0 to analogRead(A0)
+
 **d. What resistance do you need to have in series to get a reasonable range of voltages from each sensor?**
 
+10K for photocell
+2 x 10K for softpot (one per side, for one pull-up and one pull-down)
+
 **e. What kind of relationship does the resistance have as a function of stimulus? (e.g., linear?)**
+
+Linear, also acting as a voltage divider
 
 ### 2. Accelerometer
  
