@@ -65,13 +65,23 @@ Linear, also acting as a voltage divider
 
 **a. Does it matter what actions are assigned to which state? Why?**
 
+Yes, you have to clear previous data before you can write new data and you also cant read data before you have written it
+
 **b. Why is the code here all in the setup() functions and not in the loop() functions?**
+
+Because you only have to execute one iteration
 
 **c. How many byte-sized data samples can you store on the Atmega328?**
 
+1024
+
 **d. How would you get analog data from the Arduino analog pins to be byte-sized? How about analog data from the I2C devices?**
 
+Sampling the data at a specific rate, then dividing into 8 bit segments to determine most significant through least significant bit out of the byte.
+
 **e. Alternately, how would we store the data if it were bigger than a byte? (hint: take a look at the [EEPROMPut](https://www.arduino.cc/en/Reference/EEPROMPut) example)**
+
+Use multiple bytes
 
 **Upload your modified code that takes in analog values from your sensors and prints them back out to the Arduino Serial Monitor.**
 
