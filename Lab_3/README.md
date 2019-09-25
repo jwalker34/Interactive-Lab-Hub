@@ -85,6 +85,8 @@ Use multiple bytes
 
 **Upload your modified code that takes in analog values from your sensors and prints them back out to the Arduino Serial Monitor.**
 
+![EEPROM_Code](https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Lab_3/Screen%20Shot%202019-09-25%20at%206.23.38%20PM.png)
+
 ### 2. Design your logger
  
 **a. Insert here a copy of your final state diagram.**
