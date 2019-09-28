@@ -89,8 +89,10 @@ Use multiple bytes
 
 ### 2. Design your logger
  
-**a. Insert here a copy of your final state diagram.**
+![Data_Logger_FSM](https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Lab_3/Screen%20Shot%202019-09-27%20at%2011.54.59%20PM.png)
 
 ### 3. Create your data logger!
  
 **a. Record and upload a short demo video of your logger in action.**
+
+https://youtu.be/EjHc8rUebb4
