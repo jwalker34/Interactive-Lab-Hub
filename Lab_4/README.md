@@ -1,6 +1,6 @@
 # Paper Puppets
 
-*A lab report by John Q. Student*
+*A lab report by Jeremy D Walker*
 
 ## In this Report
 
@@ -16,11 +16,20 @@ To submit your lab, clone [this repository](https://github.com/FAR-Lab/IDD-Fa18-
 
 **a. Which color wires correspond to power, ground and signal?**
 
+Orange - signal
+Brown - ground
+red - power
+
 ### Part 2. Connect the Servo to your Arduino
 
 **a. Which Arduino pin should the signal line of the servo be attached to?**
 
+Pin 9
+
 **b. What aspects of the Servo code control angle or speed?**
+
+angle - pos is configured to vary between 0 and 180 (and then 180 to 0)
+speed - increment is set to 1
 
 ## Part C. Integrating input and output
 
