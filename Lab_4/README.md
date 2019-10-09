@@ -10,6 +10,8 @@ To submit your lab, clone [this repository](https://github.com/FAR-Lab/IDD-Fa18-
 
 **Link to a video of your virbation motor**
 
+https://youtu.be/8ztHwax-lzg
+
 ## Part B. Actuating Servo motors
 
 ### Part 1. Connect the Servo to your breadboard
@@ -35,10 +37,18 @@ speed - increment is set to 1
 
 **Include a photo/movie of your raw circuit in action.**
 
+https://youtu.be/I0dRd3BLyAQ
+
 ## Part D. Paper puppet
 
 **a. Make a video of your proto puppet.**
 
+https://youtu.be/DltTbM2iDH4
+
 ## Part E. Make it your own
 
 **a. Make a video of your final design.**
+
+In this part of the project, I used the arrow template from google and then implemented a two button ISR design:
+
+https://youtu.be/qfM_7DACA_4
