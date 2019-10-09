@@ -8,5 +8,6 @@ __**Jeremy Walker (JDW342)**__
 1. [Lab 1](https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Lab_1/README.pdf)
 2. [Lab 2](https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Lab_2/README.md)
 3. [Lab 3](https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Lab_3/README.md)
+4. [Lab 4](https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Lab_4/README.md)
 
 
