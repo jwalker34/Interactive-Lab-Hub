@@ -6,7 +6,8 @@
 
 ## Part A. Jack In The Box
 
-![MyBox](https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Lab_5/box.jpg)
+![MyBox](https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Lab_5/box.jpg){:height="50%" width="50%"}
 
 **Link to a video of your Jack In The Box*
 
+https://youtu.be/K80hSa4OhUM
