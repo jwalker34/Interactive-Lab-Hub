@@ -10,6 +10,8 @@ To submit your lab, fork [this repository](https://github.com/FAR-Lab/IDD-Fa18-L
 
 **Describe what changes you made to the baseline chatbot here. Don't forget to push your modified code to this repository.**
 
+I created a small application that helps the user choose where to eat. For the demo, I only incorporated mexican food and italian food, but this could technically be extended into many other restaurants as well.
+
 ## Record someone trying out your ChatBot
 
 **Using a phone or other video device, record someone trying out your ChatBot. Upload that video to this repository and link to it here!**
