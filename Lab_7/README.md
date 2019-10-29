@@ -18,7 +18,11 @@
 
 The results of diff are displayed as follows per function:
 
-![MyBox](https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Lab_5/box.jpg)
+![diff top](https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Lab_7/Diff_top.png)
+![diff serial](https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Lab_7/diff_serial.png)
+![diff webapp](https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Lab_7/diff_webapp.png)
+![diff webcam](https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Lab_7/diff_webcam.png)
+![diff websoc](https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Lab_7/diff_websoc.png)
 
 **b. Include a video of your working video doorbell**
 
