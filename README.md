@@ -11,5 +11,4 @@ __**Jeremy Walker (JDW342)**__
 4. [Lab 4](https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Lab_4/README.md)
 5. [Lab 5](https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Lab_5/README.md)
 6. [Lab 6](https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Lab_6/Readme.md)
-
-
+7. [Lab 7](https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Lab_7/README.md)
