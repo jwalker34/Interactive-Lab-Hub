@@ -1,6 +1,6 @@
 # Video Doorbell, Lab 7
 
-*A lab report by John Q. Student*
+*A lab report by Jeremy D. Walker*
 
 ### In This Report
 
@@ -23,3 +23,5 @@
 **a. Find, install, and try out a node-based library and try to incorporate into your lab. Document your successes and failures (totally okay!) for your writeup. This will help others in class figure out cool new tools and capabilities.**
 
 **b. Upload a video of your working modified project**
+
+
