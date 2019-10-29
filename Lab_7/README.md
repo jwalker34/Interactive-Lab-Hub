@@ -26,7 +26,7 @@ The results of diff are displayed as follows per function:
 ![diff webcam](https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Lab_7/diff_webcam.png)
 ![diff websoc](https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Lab_7/diff_websoc.png)
 
-Briefly scanning through these results, we can see that the main changes involve the serial communication commands between arduino/pi, the image setup (camera resolution, etc), and the actual taking of the picture (emit command for saving to public folder, etc.)
+  Briefly scanning through these results, we can see that the main changes involve the serial communication commands between arduino/pi, the image setup (camera resolution, etc), and the actual taking of the picture (emit command for saving to public folder, etc.)
 
 **b. Include a video of your working video doorbell**
 
