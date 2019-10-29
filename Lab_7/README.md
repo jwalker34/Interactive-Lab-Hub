@@ -12,6 +12,8 @@
 
 **a. Link to a video of your HelloYou sketch running.**
 
+https://youtu.be/SZn7BHqTye0
+
 ## Part B. Web Camera
 
 **a. Compare `helloYou/server.js` and `IDD-Fa18-Lab7/pictureServer.js`. What elements had to be added or changed to enable the web camera? (Hint: It might be good to know that there is a UNIX command called `diff` that compares files.)**
@@ -33,5 +35,7 @@ Briefly scanning through these results, we can see that the main changes involve
 **a. Find, install, and try out a node-based library and try to incorporate into your lab. Document your successes and failures (totally okay!) for your writeup. This will help others in class figure out cool new tools and capabilities.**
 
 **b. Upload a video of your working modified project**
+
+https://youtu.be/pI_5rwX_DsM
 
 
