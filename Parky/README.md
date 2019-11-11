@@ -1,4 +1,4 @@
-# IDD Final Project: Parky: AI Parking Assistant
+# IDD Final Project: Parky - AI Parking Assistant
 
 
 
