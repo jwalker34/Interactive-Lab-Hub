@@ -11,4 +11,4 @@
 
 [See Our Current Work Here](https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/Parky_Presentation.pptx)
 
-<!---[Or Visit Our Website](http://parkedai.com)
+[Or Visit Our Website](http://parky.tech)
