@@ -1,4 +1,4 @@
-# IDD Final Project: Pancake Printer 
+# IDD Final Project: Parky: AI Parking Assistant
 
 
 
