@@ -15,6 +15,14 @@
 
 Our product is a computer-vision assisted device that detects open parking spaces to ease the difficult process users often face with finding parking spaces that are free/cheap and near their target location. Immediately, we realized that a big challenge for this product would be mounting it to a vehicle (car, bike, etc.). The following two images capture our earliest brainstorming session:
 
+<p align="center">
+  <img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/IMG_9735.JPEG" width="500" height="350">
+</p>
+
+<p align="center">
+  <img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/IMG_9736.JPEG" width="500" height="350">
+</p>
+
 <img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/IMG_9735.JPEG">
 
 <img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/IMG_9736.JPEG">
