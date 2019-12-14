@@ -39,11 +39,13 @@ We ended up pivoting to the driver-side sideview mirror because we believed it w
 
 ### GPS
 
-<img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/IMG_9823.JPEG">
+<img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/IMG_9823.jpeg">
+
+https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/IMG_9823.jpeg
 
 ### Computer Vision
 
-<img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/IMG_9825.JPEG">
+<img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/IMG_9825.jpeg">
 
 ### Map and Notification API
 
