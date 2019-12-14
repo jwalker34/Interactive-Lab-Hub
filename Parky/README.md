@@ -15,7 +15,7 @@
 
 Our product is a computer-vision assisted device that detects open parking spaces to ease the difficult process users often face with finding parking spaces that are free/cheap and near their target location. Immediately, we realized that a big challenge for this product would be mounting it to a vehicle (car, bike, etc.). The following two images capture our earliest brainstorming session:
 
-<img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/IMG_9735.JPEG”>
+<img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/IMG_9735.JPEG">
 
 As can be seen in image 1, we imagined that our device would be a clear box with a Raspberry Pi, breadboard, and raspberry pi camera inside. As we will discuss later, this was very close to what we ended up building, minus the breadboard. Additionally, we ended up not having a clear box, so the raspberry pi camera had to poke a bit out of the box to capture photos. 
 
