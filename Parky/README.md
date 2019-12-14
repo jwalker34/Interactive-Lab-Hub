@@ -11,8 +11,6 @@
 
 [Or Visit Our Website](http://parky.tech)
 
-Phases:
-
 ### Ideation 
 
 Our product is a computer-vision assisted device that detects open parking spaces to ease the difficult process users often face with finding parking spaces that are free/cheap and near their target location. Immediately, we realized that a big challenge for this product would be mounting it to a vehicle (car, bike, etc.). The following two images capture our earliest brainstorming session:
