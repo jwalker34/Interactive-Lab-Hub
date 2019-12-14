@@ -32,19 +32,19 @@ As for where to attach our device, the second image shows that we aimed to place
 We ended up pivoting to the driver-side sideview mirror because we believed it would allow for a wide field of vision, which is necessary for tracking cars and distance between them. While this means the camera might be obstructed by traffic on the opposite side at times, we worried that placing it by the passenger side would severely limit the field of vision and make our product completely ineffective. The photos below show our prototype construction process and the prototype ultimately being mounted to a car with a C-clamp mechanism:
 
 <p align="center">
-  <img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/IMG_9738.JPEG" width="600" height="420">
+  <img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/IMG_9738.JPEG" width="600" height="700">
 </p>
 
 <p align="center">
-  <img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/IMG_9741.JPEG" width="600" height="420">
+  <img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/IMG_9741.JPEG" width="600" height="700">
 </p>
 
 <p align="center">
-  <img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/IMG_9743.JPEG" width="600" height="420">
+  <img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/IMG_9743.JPEG" width="600" height="700">
 </p>
 
 <p align="center">
-  <img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/components.jpg" width="600" height="420">
+  <img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/components.jpg" width="600" height="700">
 </p>
 
 ### Control Flow
@@ -52,7 +52,7 @@ We ended up pivoting to the driver-side sideview mirror because we believed it w
 ### GPS
 
 <p align="center">
-  <img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/IMG_9823.jpeg" width="600" height="420">
+  <img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/IMG_9823.jpeg" width="600" height="700">
 </p>
 
 ### Computer Vision
@@ -64,17 +64,17 @@ We ended up pivoting to the driver-side sideview mirror because we believed it w
 ### Map and Notification API
 
 <p align="center">
-  <img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/api.jpg" width="600" height="420">
+  <img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/api.jpg" width="600" height="700">
 </p>
 
 ### Final Device
 
 <p align="center">
-  <img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/IMG_9794.JPEG" width="600" height="420">
+  <img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/IMG_9794.JPEG" width="600" height="700">
 </p>
 
 <p align="center">
-  <img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/IMG_9795.JPEG" width="600" height="420">
+  <img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/IMG_9795.JPEG" width="600" height="700">
 </p>
 
 <p align="center">
@@ -82,7 +82,7 @@ We ended up pivoting to the driver-side sideview mirror because we believed it w
 </p>
 
 <p align="center">
-  <img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/device_bike.jpg" width="600" height="420">
+  <img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/device_bike.jpg" width="600" height="700">
 </p>
 
 ### Integration and Demo 
