@@ -17,6 +17,8 @@ Our product is a computer-vision assisted device that detects open parking space
 
 <img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/IMG_9735.JPEG">
 
+<img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/IMG_9736.JPEG">
+
 As can be seen in image 1, we imagined that our device would be a clear box with a Raspberry Pi, breadboard, and raspberry pi camera inside. As we will discuss later, this was very close to what we ended up building, minus the breadboard. Additionally, we ended up not having a clear box, so the raspberry pi camera had to poke a bit out of the box to capture photos. 
 
 As for where to attach our device, the second image shows that we aimed to place it on a car and on the bottom of a car. However, we soon realized that this would be a tricky place to mount, both because it would be difficult to maintain and because field of vision might be obstructed by components/wheels on the car. Instead, we shifted to trying to mount it to the side view mirror.   
@@ -25,14 +27,38 @@ As for where to attach our device, the second image shows that we aimed to place
 
 We ended up pivoting to the driver-side sideview mirror because we believed it would allow for a wide field of vision, which is necessary for tracking cars and distance between them. While this means the camera might be obstructed by traffic on the opposite side at times, we worried that placing it by the passenger side would severely limit the field of vision and make our product completely ineffective. The photos below show our prototype construction process and the prototype ultimately being mounted to a car with a C-clamp mechanism:
 
+<img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/IMG_9738.JPEG">
+
+<img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/IMG_9741.JPEG">
+
+<img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/IMG_9743.JPEG">
+
+<img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/components.jpg">
+
 ### Control Flow
 
 ### GPS
 
+<img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/IMG_9823.JPEG">
+
 ### Computer Vision
+
+<img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/IMG_9825.JPEG">
 
 ### Map and Notification API
 
+<img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/api.jpg">
+
 ### Final Device
 
+<img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/IMG_9794.JPEG">
+
+<img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/IMG_9795.JPEG">
+
+<img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/IMG_9796.JPEG">
+
+<img src="hhttps://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/device_bike.jpg">
+
 ### Integration and Demo 
+
+[Parky in Action!](https://www.youtube.com/watch?v=cwewLBq8r5M&feature=youtu.be)
