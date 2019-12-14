@@ -13,7 +13,7 @@
 
 Phases:
 
-## Ideation 
+### Ideation 
 
 Our product is a computer-vision assisted device that detects open parking spaces to ease the difficult process users often face with finding parking spaces that are free/cheap and near their target location. Immediately, we realized that a big challenge for this product would be mounting it to a vehicle (car, bike, etc.). The following two images capture our earliest brainstorming session:
 
@@ -24,18 +24,18 @@ As can be seen in image 1, we imagined that our device would be a clear box with
 
 As for where to attach our device, the second image shows that we aimed to place it on a car and on the bottom of a car. However, we soon realized that this would be a tricky place to mount, both because it would be difficult to maintain and because field of vision might be obstructed by components/wheels on the car. Instead, we shifted to trying to mount it to the side view mirror.   
 
-## Cardboard Prototype
+### Cardboard Prototype
 
 We ended up pivoting to the driver-side sideview mirror because we believed it would allow for a wide field of vision, which is necessary for tracking cars and distance between them. While this means the camera might be obstructed by traffic on the opposite side at times, we worried that placing it by the passenger side would severely limit the field of vision and make our product completely ineffective. The photos below show our prototype construction process and the prototype ultimately being mounted to a car with a C-clamp mechanism:
 
-## Control Flow
+### Control Flow
 
-## GPS
+### GPS
 
-## Computer Vision
+### Computer Vision
 
-## Map and Notification API
+### Map and Notification API
 
-## Final Device
+### Final Device
 
-## Integration and Demo 
+### Integration and Demo 
