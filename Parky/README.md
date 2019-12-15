@@ -6,11 +6,6 @@
   <img src="Parky_Intro.png" width="600" height="420">
 </p>
 
-
-[See Our Current Work Here](https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/Parky_Presentation.pptx)
-
-[Or Visit Our Website](http://parky.tech)
-
 ### Ideation 
 
 Our product is a computer-vision assisted device that detects open parking spaces to ease the difficult process users often face with finding parking spaces that are free/cheap and near their target location. Immediately, we realized that a big challenge for this product would be mounting it to a vehicle (car, bike, etc.). The following two images capture our earliest brainstorming session:
