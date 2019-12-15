@@ -44,6 +44,10 @@ Through our ideation and prototyping processes, we were also better able to iden
   <img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/components.jpg" width="600" height="700">
 </p>
 
+<p align="center">
+  <img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/cam.jpg" width="600" height="700">
+</p>
+
 ### Control Flow
 
 ### GPS
