@@ -38,6 +38,8 @@ We ended up pivoting to the driver-side sideview mirror because we believed it w
   <img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/IMG_9743.JPEG" width="600" height="700">
 </p>
 
+Through our ideation and prototyping processes, we were also better able to identify the components our final product would require. Since, the product would be portable and constantly moving, we needed a portable battery to power it — we settled upon the Raspberry Pi 3 B+ Battery Pack 4000mAh with suction so that we could easily attach it or attach to it. With our prototype, we also realized that an easy replacement for our cardboard box would be a Kugi raspberry pi case with all holes already in place for easy access. Lastly, we realized that a small raspberry pi camera would be ideal, so we ordered the Raspberry Pi Mini Camera Video Module 5 Megapixels 1080p Sensor OV5647 Webcam. All of these components are shown below:
+
 <p align="center">
   <img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/components.jpg" width="600" height="700">
 </p>
