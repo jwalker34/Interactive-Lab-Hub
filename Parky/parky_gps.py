@@ -5,7 +5,6 @@ from datetime import datetime
 
 
 
-
 fail_count = 0
 init_lat = 0.0
 init_long = 0.0
@@ -52,13 +51,11 @@ while(True):
             ######
             print("image stored")
 
-
         print(timestamp)
         print(latitude)
         print(longitude)
         print("\n")
         fail_count = 0
-
 
     except:
         fail_count+=1
@@ -66,25 +63,9 @@ while(True):
             camera.stop_preview()
             print('No connection...terminating program')
             break
-    
-
      
     count +=1
 
     if count > 20:
         camera.stop_preview() # remove?
         break
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
