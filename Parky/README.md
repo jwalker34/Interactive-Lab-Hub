@@ -49,10 +49,10 @@ Through our ideation and prototyping processes, we were also better able to iden
 </p>
 
 ### Control Flow
-The control flow for Parky is dictated by GPS location. The GPS will trigger when images should be taken by the camera, which in turn will be processed by our computer vision module to determine if we have encountered an open parking spot, which will then send an API call if we have in fact found an open parking spot. \\
+The control flow for Parky is dictated by GPS location. The GPS will trigger when images should be taken by the camera, which in turn will be processed by our computer vision module to determine if we have encountered an open parking spot, which will then send an API call if we have in fact found an open parking spot. 
 
-There are two major reasons for relying on GPS to determine when to take photos: \\
-1) Often cars and bikes are idle in cities as they stop at red lights, and we do not wish to take and store duplicative photos and the resulting repetitive information. \\
+There are two major reasons for relying on GPS to determine when to take photos: 
+1) Often cars and bikes are idle in cities as they stop at red lights, and we do not wish to take and store duplicative photos and the resulting repetitive information. 
 
 2) Relying on time alone to take photos (every .3 seconds for example) does not account for vehicle speed. A car driving 40 mph and a bike at 15mph will cover different amounts of distance in the same period of time, thus we could miss a lot of potential open spots if we do not account for speed, and GPS allows us to do that. 
 
