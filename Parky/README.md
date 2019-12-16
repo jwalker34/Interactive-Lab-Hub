@@ -60,7 +60,7 @@ There are two major reasons for relying on GPS to determine when to take photos:
 This process of triggering the camera to take a photo once a large enough change in longitude or latitude has occurred and then processing those photos for open parking spots will occur in a while loop until the program can no longer detect GPS coordinates, meaning the GPS has been turned off. 
 
 <p align="center">
-  <img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/IMG-20191214-WA0000.jpg" width="600" height="600">
+  <img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/IMG-20191214-WA0000.jpg" width="600" height="380">
 </p>
 
 
@@ -68,7 +68,7 @@ This process of triggering the camera to take a photo once a large enough change
 ### GPS
 
 <p align="center">
-  <img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/IMG_9823.jpeg" width="600" height="700">
+  <img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/IMG_9823.jpeg" width="600" height="750">
 </p>
 
 For the prototype version we built, we used an iPhone app called GPS2IP. The app allows us to access the phone’s IP address and from there extract the GPS coordinates with a curl command. The app was great for this step in the development of the product as we could use an off the shelf product to give us the necessary coordinates. The main information we could extract from the app were the time, longitude, and latitude (along with additional information that we did not need). From this information we were able to parse the long string of data into the necessary fields we required, namely longitude and latitude. Our framework would then process the changes in both latitude and longitude to assess if a large enough change in either component occurred, such that we should take a new photo. 
