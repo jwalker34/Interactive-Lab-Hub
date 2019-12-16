@@ -105,11 +105,13 @@ A model of the interior of our box (with all of the components) is below. We use
   <img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/assem_cad.png" width="600" height="700">
 </p>
 
-As can be seen, there is a slit on the top layer of the box. This was created so that once all of the componenets are placed inside the box, a lid can easily slide through the slit to close the box. This mechanism also makes it very easy to access the components and take them out if anything breaks or needs to be changed. When placing the components inside of the box, we used glue dots to secure the battery-raspberry pi combination in the 3rd dimension. The other two dimensions were constrained by the design of the box. The final box and lid after being 3D printed are below:
+As can be seen, there is a slit on the top layer of the box. This was created so that once all of the componenets are placed inside the box, a lid can easily slide through the slit to close the box. This mechanism also makes it very easy to access the components and take them out if anything breaks or needs to be changed. When placing the components inside of the box, we used glue dots to secure the battery-raspberry pi combination in the 3rd dimension. The other two dimensions were constrained by the design of the box. The final box and lid after being 3D printed are below. After printing, we used sand paper to fix any deformaties and give the box a nice finish:
 
 <p align="center">
   <img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/IMG_9794.JPEG" width="600" height="700">
 </p>
+
+The last phase was attaching the device to a bike. We ended up using a bike instead of a car because it was much easier to access. We then attached square zip tie mounts to the back of the box (the zip tie mounts were adhesive-backed, holding the box quite nicely). We then used zip ties to attach the camera to the front of the bike. This process brought a few challenges and considerations -- we wanted to ensure that the palcement of the box did not interfere with one's ability to ride the bike, that a biker's limbs did not obstruct the camera, and that the device moved okay when the biker turned the wheel. Placing the box on the front rod of the bike ensured the first two, but we were intially having issues with the box hitting other cables when we tried to turn the wheel. To fix this, we moved the box as high as we could up the rod and zip tied the other wires to the main rod so that they wouldn't be in the way.  A photo of the device attached to the bike is below:
 
 <p align="center">
   <img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/device_bike.jpg" width="600" height="700">
