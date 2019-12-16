@@ -105,6 +105,8 @@ A model of the interior of our box (with all of the components) is below. We use
   <img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/assem_cad.png" width="600" height="700">
 </p>
 
+As can be seen, there is a slit on the top layer of the box. This was created so that once all of the componenets are placed inside the box, a lid can easily slide through the slit to close the box. This mechanism also makes it very easy to access the components and take them out if anything breaks or needs to be changed. When placing the components inside of the box, we used glue dots to secure the battery-raspberry pi combination in the 3rd dimension. The other two dimensions were constrained by the design of the box. The final box and lid after being 3D printed are below:
+
 <p align="center">
   <img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/IMG_9794.JPEG" width="600" height="700">
 </p>
