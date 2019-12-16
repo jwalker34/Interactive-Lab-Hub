@@ -87,9 +87,13 @@ Furthermore, given the magnitude of distance that could be captured by GPS coord
 
 ### Final Device
 
+For designing the hardware for our device, we first measured and modeled all of our components in Solidworks (battery, raspberry pi, and camera). We then designed a shelled box that fit the dimensions of stacking the raspberry pi and the battery. As can be seen in the model below, we added two blocks that would constrain the battery in the horizontal direction:
+
 <p align="center">
   <img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/box_cad.png" width="600" height="700">
 </p>
+
+Next, we created a hole that would perfectly allow the camera to poke out and so that the flat base of the camera would sit right on the inner face of the box. This made it very easy to tape the camera to the box:
 
 <p align="center">
   <img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/cam_cad.png" width="600" height="700">
