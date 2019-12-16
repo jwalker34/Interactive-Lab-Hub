@@ -111,20 +111,22 @@ Furthermore, given the magnitude of distance that could be captured by GPS coord
 
 ### Code Files
 
-[1](https://www.youtube.com/watch?v=cwewLBq8r5M&feature=youtu.be)
+[GPS Code](https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/parky_gps.py)
 
-[2](https://www.youtube.com/watch?v=cwewLBq8r5M&feature=youtu.be)
+[Computer Vision Code](https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/detect_circles.py)
 
 ### CAD Files
 
-[1](https://www.youtube.com/watch?v=cwewLBq8r5M&feature=youtu.be)
+We measured and designed all of the following CAD parts/assemblies.
 
-[2](https://www.youtube.com/watch?v=cwewLBq8r5M&feature=youtu.be)
+[Pi Camera](https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/raspi%20camera.SLDPRT)
 
-[3](https://www.youtube.com/watch?v=cwewLBq8r5M&feature=youtu.be)
+[Raspberry Pi](https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/raspi.SLDPRT)
 
-[4](https://www.youtube.com/watch?v=cwewLBq8r5M&feature=youtu.be)
+[Battery](https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/battery.SLDPRT)
 
-[5](https://www.youtube.com/watch?v=cwewLBq8r5M&feature=youtu.be)
+[Box Lid](https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/lid.SLDPRT)
 
-[6](https://www.youtube.com/watch?v=cwewLBq8r5M&feature=youtu.be)
+[Main Box](https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/case.SLDPRT)
+
+[Parky Assembly](https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/parky.SLDASM)
