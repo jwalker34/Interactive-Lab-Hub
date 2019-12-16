@@ -60,7 +60,7 @@ There are two major reasons for relying on GPS to determine when to take photos:
 This process of triggering the camera to take a photo once a large enough change in longitude or latitude has occurred and then processing those photos for open parking spots will occur in a while loop until the program can no longer detect GPS coordinates, meaning the GPS has been turned off. 
 
 <p align="center">
-  <img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/IMG-20191214-WA0000.jpg" width="600" height="420">
+  <img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/IMG-20191214-WA0000.jpg" width="600" height="500">
 </p>
 
 
