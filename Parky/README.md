@@ -87,31 +87,33 @@ Furthermore, given the magnitude of distance that could be captured by GPS coord
 
 ### Final Device
 
-For designing the hardware for our device, we first measured and modeled all of our components in Solidworks (battery, raspberry pi, and camera). We then designed a shelled box that fit the dimensions of stacking the raspberry pi and the battery. As can be seen in the model below, we added two blocks that would constrain the battery in the horizontal direction:
+To design the hardware for our device, we first measured and modeled all of our components in Solidworks (battery, raspberry pi, and camera). We then designed a shelled box that fit the dimensions of stacking the raspberry pi on top of the battery. As can be seen in the model below, we added two blocks that would constrain the battery in the horizontal direction:
 
 <p align="center">
   <img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/box_cad.png" width="600" height="700">
 </p>
 
-Next, we created a hole that would perfectly allow the camera to poke out and so that the flat base of the camera would sit right on the inner face of the box. This made it very easy to tape the camera to the box:
+Next, we modeled a hole that would allow the camera to poke out of the box with the flat base of the camera sitting right on the inner face of the box. This made it very easy to simply tape the camera to the box:
 
 <p align="center">
   <img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/cam_cad.png" width="600" height="700">
 </p>
 
-A model of the interior of our box (with all of the components) is below. We used this model with a 3D printer to create our device:
+A model of the interior of our box (with all of the components) is below. We used a 3D printer with this model to create our device:
 
 <p align="center">
   <img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/assem_cad.png" width="600" height="700">
 </p>
 
-As can be seen, there is a slit on the top layer of the box. This was created so that once all of the componenets are placed inside the box, a lid can easily slide through the slit to close the box. This mechanism also makes it very easy to access the components and take them out if anything breaks or needs to be changed. When placing the components inside of the box, we used glue dots to secure the battery-raspberry pi combination in the 3rd dimension. The other two dimensions were constrained by the design of the box. The final box and lid after being 3D printed are below. After printing, we used sand paper to fix any deformaties and give the box a nice finish:
+As can be seen, there is a slit on the top layer of the box. This was created so that once all of the componenets are placed inside of the box, a lid can easily slide through the slit to close the box. This mechanism also makes it very easy to access the components if anything breaks or needs to be changed. When placing the components inside of the box, we used glue dots to secure the battery-raspberry pi combination in the 3rd dimension. The other two dimensions were constrained by the design of the box. 
+
+The final box and lid after being 3D printed are below. After printing, we used sand paper to fix any deformities and give the box a nice finish:
 
 <p align="center">
   <img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/IMG_9794.JPEG" width="600" height="700">
 </p>
 
-The last phase was attaching the device to a bike. We ended up using a bike instead of a car because it was much easier to access. We then attached square zip tie mounts to the back of the box (the zip tie mounts were adhesive-backed, holding the box quite nicely). We then used zip ties to attach the camera to the front of the bike. This process brought a few challenges and considerations -- we wanted to ensure that the palcement of the box did not interfere with one's ability to ride the bike, that a biker's limbs did not obstruct the camera, and that the device moved okay when the biker turned the wheel. Placing the box on the front rod of the bike ensured the first two, but we were intially having issues with the box hitting other cables when we tried to turn the wheel. To fix this, we moved the box as high as we could up the rod and zip tied the other wires to the main rod so that they wouldn't be in the way.  A photo of the device attached to the bike is below:
+The last phase involved attaching the device to a bike. We ended up using a bike instead of a car because it was much easier to access. We then attached square zip tie mounts to the back of the box (the zip tie mounts were adhesive-backed, holding the box quite nicely). We then used zip ties to attach the box to the front of the bike. This process involved a few challenges and considerations -- we wanted to ensure that the palcement of the box did not interfere with one's ability to ride the bike, that a biker's limbs did not obstruct the camera, and that the device moved properly when the biker turned the wheel. Placing the box on the front rod of the bike ensured the first two goals, but we were intially having issues with the box hitting other cables when we tried to turn the wheel. To fix this, we moved the box as higher up on the rod and zip tied the surrounding wires to the main rod so that they would not be in the way.  A photo of the device attached to the bike is below:
 
 <p align="center">
   <img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/device_bike.jpg" width="600" height="700">
@@ -119,7 +121,7 @@ The last phase was attaching the device to a bike. We ended up using a bike inst
 
 ### Integration and Demo 
 
-Once we attached the finalized device to the bike, we took the bike to the streets outside Cornell Tech to verify that it was working properly. A video of our product working in action is below!
+Once we attached the finalized device to the bike, we rode it around Cornell Tech to verify that it was working properly. A video of our product working in action is below!
 
 [Parky in Action!](https://www.youtube.com/watch?v=cwewLBq8r5M&feature=youtu.be)
 
