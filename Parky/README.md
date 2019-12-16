@@ -75,23 +75,23 @@ Furthermore, given the magnitude of distance that could be captured by GPS coord
 
 ### Computer Vision
 
-The parking stop detection algorithm can be described in three main steps: image processing, space pooling and space notification. 
-
-The image processing step takes in raw images taken from the camera and scans for simple features with a circular shape, using an open source image processing library which implements the Hough Circle Transform. The transform is a lightweight algorithm that analyzes potential circles based on the shape of the normal gradient around a certain edge, without regard to the nature of the object (i.e.: a baseball versus a car tire). Following detection, each distance (i.e.: between pairs of circles) is compared to the average distance for all of the other consecutive circles (horizontally aligned) detected in the image. Using a normal distribution assumption, we “pool” the “Z” value for the width of the detected distance (based on the centers of the circles). If the Z value obtained is higher than 0.95 (this was an arbitrary threshold assigned for pilot testing), the “space pooling” function calls the "space notification" function. 
-
-Furthermore, additional feature detection would be run for those pictures that meet the detection threshold (much smaller population implies drastically lower computational expense) to enable detection of relevant objects such as a construction cone, a fire hydrant, etc. The algorithm could also extract the model of the surrounding vehicles – using existing algorithms – in order to provide a more detailed and accurate assessment of the potential space prior to user notification.
+The parking spot detection algorithm can be broken down into three main steps: image processing, space pooling, and space notification. 
 
 <p align="center">
   <img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/demo_picture_small.jpg" width="600" height="100">
 </p>
 
+The image processing step takes in raw images from the camera (like the one above) and scans for simple features with a circular shape, using an open source image processing library which implements the Hough Circle Transform. The transform is a lightweight algorithm that analyzes potential circles based on the shape of the normal gradient around a certain edge, without regard to the nature of the object (i.e.: a baseball versus a car tire). Following detection, each distance (i.e.: between pairs of circles) is compared to the average distance for all of the other consecutive circles (horizontally aligned) detected in the image. Using a normal distribution assumption, we “pool” the “Z” value for the width of the detected distance (based on the centers of the circles). If the Z value obtained is higher than 0.95 (this was an arbitrary threshold assigned for pilot testing), the “space pooling” function calls the "space notification" function. Our algorithm detecting the wheels of an image can be seen in the photo below:
+
 <p align="center">
   <img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/IMG_9825.JPG" width="600" height="420">
 </p>
 
+Furthermore, additional feature detection would be run for those pictures that meet the detection threshold (much smaller population implies drastically lower computational expense) to enable detection of relevant objects such as a construction cone, a fire hydrant, etc. The algorithm could also extract the model of the surrounding vehicles – using existing algorithms – in order to provide a more detailed and accurate assessment of the potential space prior to user notification.
+
 ### Notification API
 
-The "space notification" function makes an API call to notify the users of a possible parking space via text message. Future implementations would evaluate GPS locations of pictures against public parking regulation APIs prior to notifying users of the availability of a spot (i.e.: using  data from the NYC DOTMAP PORTAL at https://www.nycdot.info).
+The "space notification" function makes an API call to notify the users of a possible parking space via text message. Future implementations would evaluate GPS locations of pictures against public parking regulation APIs prior to notifying users of the availability of a spot (i.e.: using  data from the NYC DOTMAP PORTAL at https://www.nycdot.info). The following is an example notification sent by the "space notification" function:
 
 <p align="center">
   <img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/api.jpg" width="600" height="700">
