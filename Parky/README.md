@@ -65,12 +65,16 @@ This process of triggering the camera to take a photo once a large enough change
 
 ### GPS
 
-For the prototype version we built, we used an iPhone app called GPS2IP. The app allows us to access the phone’s IP address and from there extract the GPS coordinates with a curl command. The app was great for this step in the development of the product as we could use an off the shelf product to give us the necessary coordinates. The main information we could extract from the app were the time, longitude, and latitude (along with additional information that we did not need). From this information we were able to parse the long string of data into the necessary fields we required, namely longitude and latitude. Our framework would then process the changes in both latitude and longitude to assess if a large enough change in either component occurred, such that we should take a new photo. 
+For the prototype version we built, we used an iPhone app called GPS2IP. The app allows us to access the phone’s IP address and from there, we could extract the GPS coordinates with a curl command. The app was great for this step in the development of the product, as we could use an off the shelf product to give us the necessary coordinates. The main pieces of information we could extract from the app were the time, longitude, and latitude (along with additional information that we did not need). From this information, we were able to parse the long string of data into the necessary fields we required, namely longitude and latitude. Our framework would then process the changes in both latitude and longitude to assess if a large enough change in either component occurred, in which case we would trigger the camera to take a new photo. 
 
 Furthermore, given the magnitude of distance that could be captured by GPS coordinates, and given the small changes in location for parking spots, we had to spend some time fine-tuning how small of a threshold we should set to take photos in the right proportions to changes in distance. We ultimately settled on a very small change of greater than 0.0001 to fit the small changes corresponding to parking spots. 
 
 <p align="center">
   <img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/IMG_9823.jpeg" width="600" height="750">
+</p>
+
+<p align="center">
+  <img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/IMG_9827.jpeg" width="600" height="750">
 </p>
 
 ### Computer Vision
