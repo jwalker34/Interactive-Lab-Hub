@@ -110,6 +110,8 @@ Furthermore, given the magnitude of distance that could be captured by GPS coord
 
 [Parky in Action!](https://www.youtube.com/watch?v=cwewLBq8r5M&feature=youtu.be)
 
+___________________________________________________________________________________________________________________________________________
+
 ### Code Files
 
 [GPS Code](https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/parky_gps.py)
