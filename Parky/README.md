@@ -108,6 +108,8 @@ Furthermore, given the magnitude of distance that could be captured by GPS coord
 
 ### Integration and Demo 
 
+Once we attached the finalized device to the bike, we took the bike to the streets outside Cornell Tech to verify that it was working properly. A video of our product working in action is below!
+
 [Parky in Action!](https://www.youtube.com/watch?v=cwewLBq8r5M&feature=youtu.be)
 
 ___________________________________________________________________________________________________________________________________________
