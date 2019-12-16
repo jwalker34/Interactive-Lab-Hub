@@ -76,6 +76,10 @@ Furthermore, given the magnitude of distance that could be captured by GPS coord
 ### Computer Vision
 
 <p align="center">
+  <img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/demo_picture_small.jpg" width="600" height="420">
+</p>
+
+<p align="center">
   <img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/IMG_9825.JPG" width="600" height="420">
 </p>
 
