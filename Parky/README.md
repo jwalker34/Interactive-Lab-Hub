@@ -99,6 +99,8 @@ Next, we created a hole that would perfectly allow the camera to poke out and so
   <img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/cam_cad.png" width="600" height="700">
 </p>
 
+A model of the interior of our box (with all of the components) is below. We used this model with a 3D printer to create our device:
+
 <p align="center">
   <img src="https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/assem_cad.png" width="600" height="700">
 </p>
