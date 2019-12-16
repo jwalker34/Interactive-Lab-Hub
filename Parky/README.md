@@ -114,15 +114,11 @@ Once we attached the finalized device to the bike, we took the bike to the stree
 
 ___________________________________________________________________________________________________________________________________________
 
-### Code Files
+### Code and CAD Files
 
 [GPS Code](https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/parky_gps.py)
 
 [Computer Vision Code](https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/detect_circles.py)
-
-### CAD Files
-
-We measured and designed all of the following CAD parts/assemblies.
 
 [Pi Camera](https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/raspi%20camera.SLDPRT)
 
