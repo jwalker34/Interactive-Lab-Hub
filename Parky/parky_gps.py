@@ -34,22 +34,11 @@ while(True):
         if abs(latitude - init_lat) > 0.0001 or abs(longitude - init_long) > 0.0001:
             init_lat = latitude
             init_long = longitude
-            print("CALL CAMERA")
-            #camera.start_preview()
             time.sleep(.3)
             date_time = datetime.now().strftime('%Y_%m_%d %H_%M_%S')
             file_path = '/home/pi/parky_images/image_'+date_time+'.jpg'
             camera.capture(file_path)
 
-            ######
-            #insert camera processing code here which will access at file path 
-            
-
-            #once we verify there is a potential spot store long, lat in array
-
-
-            ######
-            print("image stored")
 
         print(timestamp)
         print(latitude)
